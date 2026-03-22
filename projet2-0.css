@@ -1,0 +1,48 @@
+body {
+    background-color: #111;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    background-color: darkred;
+    padding: 20px;
+}
+
+h2 {
+    background-color: darkred;
+    padding: 10px;
+}
+
+img {
+    margin-top: 20px;
+}
+
+h3 {
+    margin-top: 30px;
+    color: darkred;
+}
+
+a {
+    display: block;
+    padding: 12px;
+    margin: 10px auto;
+    width: 250px;
+    background-color: black;
+    color: white;
+    border: 1px solid darkred;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: darkred;
+}
+p a {
+    color: lightblue;
+    text-decoration: underline;
+}
+
+p a:hover {
+    color: red;
+}
